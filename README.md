@@ -1,3 +1,5 @@
+![Dashboard1](https://github.com/meghawadhwani20/Credit_Card_Financial_Dashboard/blob/main/Dashboard1.png)
+![Dashboard2](https://github.com/meghawadhwani20/Credit_Card_Financial_Dashboard/blob/main/Dashboard2.png)
 # Credit Card Financial Dashboard (End-to-End SQL + Power BI Project)
 
 ## 1. Project Overview
